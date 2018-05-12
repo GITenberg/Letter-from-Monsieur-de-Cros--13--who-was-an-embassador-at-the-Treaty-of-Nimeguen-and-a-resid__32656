@@ -1,0 +1,36 @@
+_repo: Letter-from-Monsieur-de-Cros--13--who-was-an-embassador-at-the-Treaty-of-Nimeguen-and-a-resid__32656
+_version: 0.1.0
+alternative_title: Letter from Monsieur de Cros,... being an answer to Sir Wm Temple's
+  memoirs... [1693]
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Du Cros, Simon, active 17th century
+    aliases:
+    - Ducros, Simon
+    - Cros, Simon du
+    - Cros, Monsieur de
+    gutenberg_agent_id: '35968'
+    url: http://www.gutenberg.org/2009/agents/35968
+description: ''
+gutenberg_issued: '2010-06-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Temple, William, 1628-1699. Memoirs of what past in Christendom from the
+  war begun 1672 to the peace concluded 1679'
+- !lcsh 'Dutch War, 1672-1678'
+- !lcsh 'Europe -- History -- 1648-1715'
+title: "Letter from Monsieur de Cros\r\n(who was an embassador at the Treaty of Nimeguen\
+  \ and a resident at England in K. Charles the Second's reign) to the Lord ----;\
+  \ being an answer to Sir Wm. Temple's memoirs concerning what passed from the year\
+  \ 1672 until the year 1679"
+url: http://www.gutenberg.org/ebooks/32656
